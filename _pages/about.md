@@ -29,7 +29,7 @@ My research interests is subset selection for computer vision (for robust AI and
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/CDS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Contributing Dimension Structure of Deep Feature for Coreset Selection](https://arxiv.org/pdf/2401.16193.pdf)
@@ -40,7 +40,7 @@ My research interests is subset selection for computer vision (for robust AI and
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSUR 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSUR 2023</div><img src='images/Taxonomy.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Survey of Dataset Refinement for Problems in Computer Vision Datasets](https://dl.acm.org/doi/abs/10.1145/3627157)
