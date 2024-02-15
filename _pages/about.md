@@ -44,7 +44,9 @@ I am currently a 2nd-year PhD student of [AIM Lab](http://aim-nercms.whu.edu.cn/
 [A Survey of Dataset Refinement for Problems in Computer Vision Datasets](https://dl.acm.org/doi/abs/10.1145/3627157)
 
 **Zhijing Wan**, Zhixiang Wang, CheukTing Chung, Zheng Wang
+
 [**Github**](https://github.com/Vivian-wzj/DatasetRefinement-CV)
+
 - We summarize and analyze the various problems encountered in large-scale computer vision datasets.
 - We provide a comprehensive and structured overview of recent advances in dataset refinement (data sampling, data subset selection, and active learning) for problematic computer vision datasets.
 </div>
