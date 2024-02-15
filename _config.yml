@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhijing Wan \n 万志静"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "A PhD student. Focusing on coreset selection for computer vision."
+  bio              : #"A PhD student. Focusing on coreset selection for computer vision."
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : 
