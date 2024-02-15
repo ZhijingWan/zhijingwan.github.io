@@ -54,9 +54,6 @@ My research interests are subset selection for computer vision and  data-efficie
 </div>
 </div>
 
-# 🎖 Honors and Awards
--  
-
 # 📖 Educations
 - *2022.09 - now*, Doctoral, Wuhan University, Wuhan.
 - *2020.09 - 2022.06*, Master, Wuhan University of Science and Technology, Wuhan.
