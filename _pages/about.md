@@ -60,7 +60,7 @@ My research interests are subset selection for computer vision and  data-efficie
 - *2016.09 - 2020.06*, Undergraduate, Wuhan University of Science and Technology, Wuhan.
 
 # 💻 Internships
-- *2023.10 - 2024.10*, [Shin'ichi Satoh's Lab]([https://github.com/](https://www.satoh-lab.nii.ac.jp/)https://www.satoh-lab.nii.ac.jp/), Japan.
+- *2023.10 - 2024.10*, [Shin'ichi Satoh's Lab](https://www.satoh-lab.nii.ac.jp/), Japan.
 
 Thanks [Yi Ren](https://gcenterithub.com/RayeRen/acad-homepage.github.io) for this amazing homepage template.
 
