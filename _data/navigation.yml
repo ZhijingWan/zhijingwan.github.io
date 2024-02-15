@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "https://vivian-wzj.github.io/zhijingwan.github.io/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "https://vivian-wzj.github.io/zhijingwan.github.io/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "https://vivian-wzj.github.io/zhijingwan.github.io/#-publications"
 
   # - title: "Honors and Awards"
-  #   url: "/#-honors-and-awards"
+  #   url: "https://vivian-wzj.github.io/zhijingwan.github.io/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "https://vivian-wzj.github.io/zhijingwan.github.io/#-educations"
 
   # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
+  #   url: "https://vivian-wzj.github.io/zhijingwan.github.io/#-invited-talks"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "https://vivian-wzj.github.io/zhijingwan.github.io/#-internships"
