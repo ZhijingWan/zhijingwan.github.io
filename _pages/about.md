@@ -54,7 +54,7 @@ I am currently a 2nd-year PhD student of [AIM Lab](http://aim-nercms.whu.edu.cn/
 -  
 
 # 📖 Educations
-- *2022.09 - now*, doctoral, Wuhan University, Wuhan.
+- *2022.09 - now*, Doctoral, Wuhan University, Wuhan.
 - *2020.09 - 2022.06*, Master, Wuhan University of Science and Technology, Wuhan.
 - *2016.09 - 2020.06*, Undergraduate, Wuhan University of Science and Technology, Wuhan.
 
