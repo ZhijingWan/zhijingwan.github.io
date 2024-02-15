@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a 2nd-year PhD student of [AIM Lab](http://aim-nercms.whu.edu.cn/) at [Wuhan University (WHU)](https://www.whu.edu.cn/), extremely fortunate to be supervised by [Prof. Zheng Wang](https://wangzwhu.github.io/home/). I am also a visiting student supervised by [Prof.Shin'ichi Satoh](https://researchmap.jp/satoh/) in [National Institute of Informatics (NII)](https://www.nii.ac.jp/en/). Throughout my studies, I have been fortunate to collaborate closely with [Zhixiang Wang](https://lightchaserx.github.io/). I completed my M.Phil at [Wuhan University of Science and Technology](https://en.wust.edu.cn/) with [Prof. Xin Xu](http://www.vai-lab.com/member/XuXin.html).
+I am currently a 2nd-year PhD student of [AIM Lab](http://aim-nercms.whu.edu.cn/) at [Wuhan University (WHU)](https://www.whu.edu.cn/), extremely fortunate to be supervised by [Prof. Zheng Wang](https://wangzwhu.github.io/home/). I am also a visiting student supervised by [Prof.Shin'ichi Satoh](https://researchmap.jp/satoh/) in [National Institute of Informatics (NII)](https://www.nii.ac.jp/en/). Throughout my studies, I have been fortunate to collaborate closely with [Zhixiang Wang](https://lightchaserx.github.io/). I obtained my master's degree from [Wuhan University of Science and Technology](https://en.wust.edu.cn/), under the supervision of [Prof. Xin Xu](http://www.vai-lab.com/member/XuXin.html).
 
 My research interests is subset selection for computer vision (for robust AI and green AI). 
 
