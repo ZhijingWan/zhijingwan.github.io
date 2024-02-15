@@ -36,6 +36,8 @@ My research interests is subset selection for computer vision (for robust AI and
 
 **Zhijing Wan**, Zhixiang Wang, Yuran Wang, Zheng Wang, Hongyuan Zhu, and Shin’ichi Satoh
 
+AAAI, 2024
+
 - For the first time in coreset selection, we explicitly introduce information on the Contributing Dimension Structure (CDS) via the proposed CDS metric to enrich the diversity of CDS in the coreset. 
 </div>
 </div>
@@ -47,6 +49,8 @@ My research interests is subset selection for computer vision (for robust AI and
 
 **Zhijing Wan**, Zhixiang Wang, CheukTing Chung, Zheng Wang
 
+ACM Computing Surveys, 2023
+
 [**Github**](https://github.com/Vivian-wzj/DatasetRefinement-CV)
 
 - We summarize and analyze the various problems encountered in large-scale computer vision datasets.
@@ -54,9 +58,8 @@ My research interests is subset selection for computer vision (for robust AI and
 </div>
 </div>
 
-- ``TITS 2023`` [From Multi-Source Virtual to Real: Effective Virtual Data Search for Vehicle Re-Identification](https://ieeexplore.ieee.org/abstract/document/10315031), **Zhijing Wan**, Xin Xu, Zheng Wang, Zhixiang Wang, Sheng Zhao, and Ruimin Hu
-- ``IJIS 2022`` [Efficient virtual data search for annotation‐free vehicle reidentification](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22829), **Zhijing Wan**, Xin Xu, Zheng Wang, Toshihiko Yamasaki, Xiaolong Zhang, and Ruimin Hu 
- <font color="red">(Cover Paper)</font>
+- ``TITS 2023`` [From Multi-Source Virtual to Real: Effective Virtual Data Search for Vehicle Re-Identification](https://ieeexplore.ieee.org/abstract/document/10315031), **Zhijing Wan**, Xin Xu, Zheng Wang, Zhixiang Wang, Sheng Zhao, and Ruimin Hu, IEEE Transactions on Intelligent Transportation Systems 2023
+- ``IJIS 2022`` [Efficient virtual data search for annotation‐free vehicle reidentification](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22829), **Zhijing Wan**, Xin Xu, Zheng Wang, Toshihiko Yamasaki, Xiaolong Zhang, and Ruimin Hu, International Journal of Intelligent Systems, 2022 <font color="red">(Cover Paper)</font>
   
 # 📖 Educations
 - *2022.09 - now*, Doctoral, Wuhan University, Wuhan.
