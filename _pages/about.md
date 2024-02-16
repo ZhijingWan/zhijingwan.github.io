@@ -71,5 +71,6 @@ My research interests is subset selection for computer vision (for robust AI and
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=GB0fGAB6hUBTWXmUraue8i2zUZx3NrKZ7Y3fG_u7fa0&cl=ffffff&w=a"></script>
 
-<h1 style="text-align:right">Thanks [Yi Ren](https://github.com/RayeRen) for this amazing homepage template.</h1>h1>
+Updated in Feb. 2024
+<p style="text-align:right">Thanks [Yi Ren](https://github.com/RayeRen) for this amazing homepage template.</p>
 
