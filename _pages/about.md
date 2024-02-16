@@ -69,5 +69,5 @@ My research interests is subset selection for computer vision (for robust AI and
 # 💻 Internships
 - *2023.10 - 2024.10*, [Shin'ichi Satoh's Lab](https://www.satoh-lab.nii.ac.jp/), Japan.
 
-Thanks [Yi Ren](https://gcenterithub.com/RayeRen/acad-homepage.github.io) for this amazing homepage template.
+Thanks [Yi Ren](https://github.com/RayeRen) for this amazing homepage template.
 
