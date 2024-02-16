@@ -69,8 +69,6 @@ My research interests is subset selection for computer vision (for robust AI and
 # 💻 Internships
 - *2023.10 - 2024.10*, [Shin'ichi Satoh's Lab](https://www.satoh-lab.nii.ac.jp/), Japan.
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=GB0fGAB6hUBTWXmUraue8i2zUZx3NrKZ7Y3fG_u7fa0&cl=ffffff&w=a"></script>
-
 Updated in Feb. 2024
-<p style="text-align:right">Thanks [Yi Ren](https://github.com/RayeRen) for this amazing homepage template.</p>
+<p style="text-align:right">Thanks <a href="https://github.com/RayeRen">Yi Ren</a> for this amazing homepage template.</p>
 
