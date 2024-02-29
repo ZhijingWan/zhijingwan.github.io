@@ -1,6 +1,6 @@
 # Personal HomePage of Zhijing Wan
 
-- The source code of [my homepage](https://vivian-wzj.github.io/zhijingwan.github.io/).
+- The source code of [my homepage](https://zhijingwan.github.io/).
 
 ## Acknowledgements
 
