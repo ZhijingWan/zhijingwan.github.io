@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Zhijing Wan"
 description              : ""
-repository               : "Vivian-wzj/zhijingwan.github.io"
+repository               : "ZhijingWan/zhijingwan.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Vivian-wzj"
+  github           : "ZhijingWan"
   google_plus      :
   keybase          :
   instagram        :
