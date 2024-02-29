@@ -53,7 +53,7 @@ My research interests is subset selection for computer vision (for robust AI and
 
 **ACM Computing Surveys**, 2023
 
-[**Github**](https://github.com/Vivian-wzj/DatasetRefinement-CV)  [**PDF**](https://arxiv.org/pdf/2210.11717.pdf)
+[**Github**](https://github.com/ZhijingWan/DatasetRefinement-CV)  [**PDF**](https://arxiv.org/pdf/2210.11717.pdf)
 
 - We summarize and analyze the various problems encountered in large-scale computer vision datasets.
 - We provide a comprehensive and structured overview of recent advances in dataset refinement (data sampling, data subset selection, and active learning) for problematic computer vision datasets.
