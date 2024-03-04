@@ -21,7 +21,7 @@ I am currently a 2nd-year PhD student of [AIM Lab](http://aim-nercms.whu.edu.cn/
 
 My research interests is subset selection for computer vision (for robust AI and green AI). 
 <center>
-    <img src="images/Research.jpg" alt="Research" />
+    <img src="images/Research.jpg" alt="Research" width="50%" height="50%" />
 </center>
 
 
