@@ -41,7 +41,7 @@ My research interests is subset selection for computer vision (for robust AI and
 
 **AAAI**, 2024
 
-[**Github**](https://github.com/ZhijingWan/contributing-dimension-structure) [**PDF**](https://arxiv.org/pdf/2401.16193.pdf)
+[**Github**](https://github.com/ZhijingWan/contributing-dimension-structure) [**PDF**](https://arxiv.org/pdf/2401.16193.pdf) [**Poster**](https://github.com/ZhijingWan/zhijingwan.github.io/blob/main/poster/Poster_AAAI2024.pdf)
 
 - For the first time in coreset selection, we explicitly introduce information on the Contributing Dimension Structure (CDS) via the proposed CDS metric to enrich the diversity of CDS in the coreset. 
 </div>
