@@ -73,7 +73,7 @@ If you are seeking any form of academic cooperation on subset selection, please 
 - *2016.09 - 2020.06*, Undergraduate, Wuhan University of Science and Technology, Wuhan.
 
 # 💻 Internships
-- *2023.10 - 2024.10*, [Shin'ichi Satoh's Lab](https://www.satoh-lab.nii.ac.jp/), Japan.
+- *2023.10 - 2024.10*, Visiting Ph.D, [Shin'ichi Satoh's Lab](https://www.satoh-lab.nii.ac.jp/), Japan.
 
 <p style="text-align:right">Updated in Mar. 2024</p>
 <p style="text-align:right">Thanks <a href="https://github.com/RayeRen">Yi Ren</a> for this amazing homepage template.</p>
