@@ -26,7 +26,7 @@ My research interests is subset selection for computer vision (for robust AI and
 
 If you are seeking any form of academic cooperation on subset selection, please feel free to email at <font color=Blue>wanzjwhu@whu.edu.cn</font>.
 
-# 🔥 News
+# 🔥 Recent News
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI2024!
 - *2023.10*: &nbsp;🎉🎉 One paper is accepted by TITS!
 - *2023.09*: &nbsp;🎉🎉 One paper ([Dataset-Refinement-for-Computer-Vision survey](https://dl.acm.org/doi/abs/10.1145/3627157)) is accepted by ACM Computing Survey!
