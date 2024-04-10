@@ -68,12 +68,10 @@ If you are seeking any form of academic cooperation on subset selection, please 
 - ``IJIS 2022`` [Efficient virtual data search for annotation‐free vehicle reidentification](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22829), **Zhijing Wan**, Xin Xu*, Zheng Wang, Toshihiko Yamasaki, Xiaolong Zhang, and Ruimin Hu, **International Journal of Intelligent Systems**, 2022 <span style="color:red">(Cover paper)</span>
 
 # 📖 Educations
+- *2023.10 - now*, Visiting Ph.D, [Shin'ichi Satoh's Lab](https://www.satoh-lab.nii.ac.jp/), Japan.
 - *2022.09 - now*, Doctoral, Wuhan University, Wuhan.
 - *2020.09 - 2022.06*, Master, Wuhan University of Science and Technology, Wuhan.
 - *2016.09 - 2020.06*, Undergraduate, Wuhan University of Science and Technology, Wuhan.
-
-# 💻 Internships
-- *2023.10 - 2024.10*, Visiting Ph.D, [Shin'ichi Satoh's Lab](https://www.satoh-lab.nii.ac.jp/), Japan.
 
 <p style="text-align:right">Updated in Mar. 2024</p>
 <p style="text-align:right">Thanks <a href="https://github.com/RayeRen">Yi Ren</a> for this amazing homepage template.</p>
