@@ -27,9 +27,10 @@ My research interest lies on subset selection for computer vision (for robust AI
 If you are seeking any form of academic cooperation on subset selection, please feel free to email at <font color=Blue>wanzjwhu@whu.edu.cn</font>.
 
 # 🔥 Recent News
-- *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI2024!
-- *2023.10*: &nbsp;🎉🎉 One paper is accepted by TITS!
-- *2023.09*: &nbsp;🎉🎉 One paper ([Dataset-Refinement-for-Computer-Vision survey](https://dl.acm.org/doi/abs/10.1145/3627157)) is accepted by ACM Computing Survey!
+- *2024.07*: &nbsp;🎉🎉 One co-authored paper was accepted by ACM MM2024!
+- *2023.12*: &nbsp;🎉🎉 One paper was accepted by AAAI2024!
+- *2023.10*: &nbsp;🎉🎉 One paper was accepted by TITS!
+- *2023.09*: &nbsp;🎉🎉 One paper ([Dataset-Refinement-for-Computer-Vision survey](https://dl.acm.org/doi/abs/10.1145/3627157)) was accepted by ACM Computing Survey!
 
 # 📝 Publications 
 
@@ -73,6 +74,6 @@ If you are seeking any form of academic cooperation on subset selection, please 
 - *2020.09 - 2022.06*, Master, Wuhan University of Science and Technology, Wuhan.
 - *2016.09 - 2020.06*, Undergraduate, Wuhan University of Science and Technology, Wuhan.
 
-<p style="text-align:right">Updated in Mar. 2024</p>
+<p style="text-align:right">Updated in Jul. 2024</p>
 <p style="text-align:right">Thanks <a href="https://github.com/RayeRen">Yi Ren</a> for this amazing homepage template.</p>
 
