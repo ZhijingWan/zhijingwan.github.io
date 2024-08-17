@@ -65,7 +65,8 @@ If you are seeking any form of academic cooperation on subset selection, please 
 </div>
 </div>
 
-- ``TITS 2023`` [From Multi-Source Virtual to Real: Effective Virtual Data Search for Vehicle Re-Identification](https://ieeexplore.ieee.org/abstract/document/10315031), **Zhijing Wan**, Xin Xu*, Zheng Wang*, Zhixiang Wang, Sheng Zhao, and Ruimin Hu, **IEEE Transactions on Intelligent Transportation Systems** 2023
+- ``ACM MM 2024`` Devil is in Details: Locality-Aware 3D Abdominal CT Volume Generation for Organ Segmentation, Yuran Wang, **Zhijing Wan**, Yansheng Qiu, Zheng Wang, **ACM MM** 2024
+- ``T-ITS 2023`` [From Multi-Source Virtual to Real: Effective Virtual Data Search for Vehicle Re-Identification](https://ieeexplore.ieee.org/abstract/document/10315031), **Zhijing Wan**, Xin Xu*, Zheng Wang*, Zhixiang Wang, Sheng Zhao, and Ruimin Hu, **IEEE Transactions on Intelligent Transportation Systems** 2023
 - ``IJIS 2022`` [Efficient virtual data search for annotation‐free vehicle reidentification](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22829), **Zhijing Wan**, Xin Xu*, Zheng Wang, Toshihiko Yamasaki, Xiaolong Zhang, and Ruimin Hu, **International Journal of Intelligent Systems**, 2022 <span style="color:red">(Cover paper)</span>
 
 # 📖 Educations
@@ -76,6 +77,6 @@ If you are seeking any form of academic cooperation on subset selection, please 
 
 <a href="https://info.flagcounter.com/ktkR"><img src="https://s11.flagcounter.com/count2/ktkR/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
-<p style="text-align:right">Updated in Jul. 2024</p>
+<p style="text-align:right">Updated in Aug. 2024</p>
 <p style="text-align:right">Thanks <a href="https://github.com/RayeRen">Yi Ren</a> for this amazing homepage template.</p>
 
