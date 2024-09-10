@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a 2nd-year PhD student of [AIM Lab](http://aim-nercms.whu.edu.cn/) at [National Engineering Research Center for Multimedia Software (国家多媒体软件工程技术研究中心)](http://multimedia.whu.edu.cn/), [Wuhan University (武汉大学)](https://www.whu.edu.cn/), extremely fortunate to be supervised by [Prof. Zheng Wang](https://wangzwhu.github.io/home/). I am also a visiting student supervised by [Prof.Shin'ichi Satoh](https://researchmap.jp/satoh/) in [National Institute of Informatics (国立情報学研究所)](https://www.nii.ac.jp/en/). Throughout my studies, I have been fortunate to collaborate closely with [Zhixiang Wang](https://lightchaserx.github.io/). I obtained my master's degree from [Wuhan University of Science and Technology](https://en.wust.edu.cn/), under the supervision of [Prof. Xin Xu](http://www.vai-lab.com/member/XuXin.html).
+I am currently a 3nd-year PhD student of [AIM Lab](http://aim-nercms.whu.edu.cn/) at [National Engineering Research Center for Multimedia Software (国家多媒体软件工程技术研究中心)](http://multimedia.whu.edu.cn/), [Wuhan University (武汉大学)](https://www.whu.edu.cn/), extremely fortunate to be supervised by [Prof. Zheng Wang](https://wangzwhu.github.io/home/). I am also a visiting student supervised by [Prof.Shin'ichi Satoh](https://researchmap.jp/satoh/) in [National Institute of Informatics (国立情報学研究所)](https://www.nii.ac.jp/en/). Throughout my studies, I have been fortunate to collaborate closely with [Zhixiang Wang](https://lightchaserx.github.io/). I obtained my master's degree from [Wuhan University of Science and Technology](https://en.wust.edu.cn/), under the supervision of [Prof. Xin Xu](http://www.vai-lab.com/member/XuXin.html).
 
 My research interest lies on subset selection for computer vision (for robust AI and green AI). 
 <center>
@@ -77,6 +77,6 @@ If you are seeking any form of academic cooperation on subset selection, please 
 
 <a href="https://info.flagcounter.com/ktkR"><img src="https://s11.flagcounter.com/count2/ktkR/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
-<p style="text-align:right">Updated in Aug. 2024</p>
+<p style="text-align:right">Updated in Sept. 2024</p>
 <p style="text-align:right">Thanks <a href="https://github.com/RayeRen">Yi Ren</a> for this amazing homepage template.</p>
 
