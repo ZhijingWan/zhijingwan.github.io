@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhijing Wan 万志静"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "To embrace new learning, to become better than yesterday." \n "Ph.D. candidate at WHU AIM Lab"
+  bio              : "To embrace new learning, to become better than yesterday." \ "Ph.D. candidate at WHU AIM Lab"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
