@@ -11,9 +11,10 @@
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}
+    {% assign bios = author.bio | split: "|" %}
     <p class="author__bio">
-        {{ author.bio[0] }}<br>
-        {{ author.bio[1] }}
+        {{ bios[0] }}<br>
+        {{ bios[1] }}
     </p>{% endif %}
   </div>
 
