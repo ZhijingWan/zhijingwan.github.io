@@ -19,8 +19,6 @@ redirect_from:
 
 I am currently a 3nd-year PhD student of [AIM Lab](http://aim-nercms.whu.edu.cn/) at [National Engineering Research Center for Multimedia Software (国家多媒体软件工程技术研究中心)](http://multimedia.whu.edu.cn/), [Wuhan University (武汉大学)](https://www.whu.edu.cn/), extremely fortunate to be supervised by [Prof. Zheng Wang](https://wangzwhu.github.io/home/). Throughout my studies, I have been fortunate to collaborate closely with [Zhixiang Wang](https://lightchaserx.github.io/). I obtained my master's degree from [Wuhan University of Science and Technology](https://en.wust.edu.cn/), under the supervision of [Prof. Xin Xu](http://www.vai-lab.com/member/XuXin.html).
 
-# I am also a visiting student supervised by [Prof.Shin'ichi Satoh](https://researchmap.jp/satoh/) in [National Institute of Informatics (国立情報学研究所)](https://www.nii.ac.jp/en/).
-
 My research interests lie in data-centric AI, such as subset selection for computer vision (for robust AI and green AI). 
 <center>
     <img src="images/Research.jpg" alt="Research" width="60%" height="60%" />
