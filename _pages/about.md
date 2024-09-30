@@ -71,7 +71,7 @@ If you are seeking any form of academic cooperation on subset selection, please 
 
 # 📖 Educations
 - *2022.09 - now*, Doctoral, Wuhan University, Wuhan.
-- *2023.10 - 2024.09*, Visiting Ph.D, [Shin'ichi Satoh's Lab](https://www.satoh-lab.nii.ac.jp/), Japan.
+- *2023.10 - 2024.10*, Visiting Ph.D, [Shin'ichi Satoh's Lab](https://www.satoh-lab.nii.ac.jp/), Japan.
 - *2020.09 - 2022.06*, Master, Wuhan University of Science and Technology, Wuhan.
 - *2016.09 - 2020.06*, Undergraduate, Wuhan University of Science and Technology, Wuhan.
 
