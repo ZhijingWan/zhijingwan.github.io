@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a 3nd-year PhD student of [AIM Lab](http://aim-nercms.whu.edu.cn/) at [National Engineering Research Center for Multimedia Software (国家多媒体软件工程技术研究中心)](http://multimedia.whu.edu.cn/), [Wuhan University (武汉大学)](https://www.whu.edu.cn/), extremely fortunate to be supervised by [Prof. Zheng Wang](https://wangzwhu.github.io/home/). I am also a visiting student supervised by [Prof.Shin'ichi Satoh](https://researchmap.jp/satoh/) in [National Institute of Informatics (国立情報学研究所)](https://www.nii.ac.jp/en/). Throughout my studies, I have been fortunate to collaborate closely with [Zhixiang Wang](https://lightchaserx.github.io/). I obtained my master's degree from [Wuhan University of Science and Technology](https://en.wust.edu.cn/), under the supervision of [Prof. Xin Xu](http://www.vai-lab.com/member/XuXin.html).
+I am currently a 3nd-year PhD student of [AIM Lab](http://aim-nercms.whu.edu.cn/) at [National Engineering Research Center for Multimedia Software (国家多媒体软件工程技术研究中心)](http://multimedia.whu.edu.cn/), [Wuhan University (武汉大学)](https://www.whu.edu.cn/), extremely fortunate to be supervised by [Prof. Zheng Wang](https://wangzwhu.github.io/home/). Throughout my studies, I have been fortunate to collaborate closely with [Zhixiang Wang](https://lightchaserx.github.io/). I obtained my master's degree from [Wuhan University of Science and Technology](https://en.wust.edu.cn/), under the supervision of [Prof. Xin Xu](http://www.vai-lab.com/member/XuXin.html).
 
 My research interests lie in data-centric AI, such as subset selection for computer vision (for robust AI and green AI). 
 <center>
@@ -70,8 +70,8 @@ If you are seeking any form of academic cooperation on subset selection, please 
 - ``IJIS 2022`` [Efficient virtual data search for annotation‐free vehicle reidentification](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22829), **Zhijing Wan**, Xin Xu*, Zheng Wang, Toshihiko Yamasaki, Xiaolong Zhang, and Ruimin Hu, **International Journal of Intelligent Systems**, 2022 <span style="color:red">(Cover paper)</span>
 
 # 📖 Educations
-- *2023.10 - now*, Visiting Ph.D, [Shin'ichi Satoh's Lab](https://www.satoh-lab.nii.ac.jp/), Japan.
 - *2022.09 - now*, Doctoral, Wuhan University, Wuhan.
+- *2023.10 - 2024.09*, Visiting Ph.D, [Shin'ichi Satoh's Lab](https://www.satoh-lab.nii.ac.jp/), Japan.
 - *2020.09 - 2022.06*, Master, Wuhan University of Science and Technology, Wuhan.
 - *2016.09 - 2020.06*, Undergraduate, Wuhan University of Science and Technology, Wuhan.
 
