@@ -40,7 +40,7 @@ If you are seeking any form of academic cooperation on subset selection, please 
 
 [Contributing Dimension Structure of Deep Feature for Coreset Selection](https://arxiv.org/pdf/2401.16193.pdf)
 
-**Zhijing Wan**, Zhixiang Wang, Yuran Wang, Zheng Wang*, Hongyuan Zhu, and Shin’ichi Satoh
+**Zhijing Wan**, Zhixiang Wang, Yuran Wang, Zheng Wang, Hongyuan Zhu, and Shin’ichi Satoh
 
 **AAAI**, 2024
 
@@ -55,7 +55,7 @@ If you are seeking any form of academic cooperation on subset selection, please 
 
 [A Survey of Dataset Refinement for Problems in Computer Vision Datasets](https://dl.acm.org/doi/abs/10.1145/3627157)
 
-**Zhijing Wan**, Zhixiang Wang, CheukTing Chung, Zheng Wang*
+**Zhijing Wan**, Zhixiang Wang, CheukTing Chung, Zheng Wang
 
 **ACM Computing Surveys**, 2023
 
@@ -68,8 +68,8 @@ If you are seeking any form of academic cooperation on subset selection, please 
 
 - ``TOMM 2024`` [Diversity-Representativeness Replay and Knowledge Alignment for Lifelong Vehicle Re-identification](https://dl.acm.org/doi/abs/10.1145/3702998), Anqi Cao†, **Zhijing Wan†**, Xiao Wang, Wei Liu, Wei Wang, Zheng Wang, Xin Xu, **ACM Transactions on Multimedia Computing, Communications and Applications** 2024
 - ``ACM MM 2024`` [Devil is in Details: Locality-Aware 3D Abdominal CT Volume Generation for Organ Segmentation](https://dl.acm.org/doi/10.1145/3664647.3680588), Yuran Wang, **Zhijing Wan**, Yansheng Qiu, Zheng Wang, **ACM MM** 2024
-- ``T-ITS 2023`` [From Multi-Source Virtual to Real: Effective Virtual Data Search for Vehicle Re-Identification](https://ieeexplore.ieee.org/abstract/document/10315031), **Zhijing Wan**, Xin Xu*, Zheng Wang*, Zhixiang Wang, Sheng Zhao, and Ruimin Hu, **IEEE Transactions on Intelligent Transportation Systems** 2023
-- ``IJIS 2022`` [Efficient virtual data search for annotation‐free vehicle reidentification](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22829), **Zhijing Wan**, Xin Xu*, Zheng Wang, Toshihiko Yamasaki, Xiaolong Zhang, and Ruimin Hu, **International Journal of Intelligent Systems**, 2022 <span style="color:red">(Cover paper)</span>
+- ``T-ITS 2023`` [From Multi-Source Virtual to Real: Effective Virtual Data Search for Vehicle Re-Identification](https://ieeexplore.ieee.org/abstract/document/10315031), **Zhijing Wan**, Xin Xu, Zheng Wang, Zhixiang Wang, Sheng Zhao, and Ruimin Hu, **IEEE Transactions on Intelligent Transportation Systems** 2023
+- ``IJIS 2022`` [Efficient virtual data search for annotation‐free vehicle reidentification](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22829), **Zhijing Wan**, Xin Xu, Zheng Wang, Toshihiko Yamasaki, Xiaolong Zhang, and Ruimin Hu, **International Journal of Intelligent Systems**, 2022 <span style="color:red">(Cover paper)</span>
 
 # 📖 Educations
 - *2022.09 - now*, Doctoral, Wuhan University, Wuhan.
@@ -79,6 +79,6 @@ If you are seeking any form of academic cooperation on subset selection, please 
 
 <a href="https://info.flagcounter.com/ktkR"><img src="https://s11.flagcounter.com/count2/ktkR/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
-<p style="text-align:right">Updated in Oct. 2024</p>
+<p style="text-align:right">Updated in Dec. 2024</p>
 <p style="text-align:right">Thanks <a href="https://github.com/RayeRen">Yi Ren</a> for this amazing homepage template.</p>
 
