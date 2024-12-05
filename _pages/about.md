@@ -66,7 +66,7 @@ If you are seeking any form of academic cooperation on subset selection, please 
 </div>
 </div>
 
-- ``TOMM 2024`` [Diversity-Representativeness Replay and Knowledge Alignment for Lifelong Vehicle Re-identification](https://dl.acm.org/doi/abs/10.1145/3702998), Anqi Cao†, **Zhijing Wan†**, Xiao Wang, Wei Liu, Wei Wang, Zheng Wang, and Xin Xu, **ACM Transactions on Multimedia Computing, Communications and Applications** 2024
+- ``TOMM 2024`` [Diversity-Representativeness Replay and Knowledge Alignment for Lifelong Vehicle Re-identification](https://dl.acm.org/doi/abs/10.1145/3702998), Anqi Cao<sup>†</sup>, **Zhijing Wan**<sup>†</sup>, Xiao Wang, Wei Liu, Wei Wang, Zheng Wang, and Xin Xu, **ACM Transactions on Multimedia Computing, Communications and Applications** 2024
 - ``ACM MM 2024`` [Devil is in Details: Locality-Aware 3D Abdominal CT Volume Generation for Organ Segmentation](https://dl.acm.org/doi/10.1145/3664647.3680588), Yuran Wang, **Zhijing Wan**, Yansheng Qiu, and Zheng Wang, **ACM MM** 2024
 - ``T-ITS 2023`` [From Multi-Source Virtual to Real: Effective Virtual Data Search for Vehicle Re-Identification](https://ieeexplore.ieee.org/abstract/document/10315031), **Zhijing Wan**, Xin Xu, Zheng Wang, Zhixiang Wang, Sheng Zhao, and Ruimin Hu, **IEEE Transactions on Intelligent Transportation Systems** 2023
 - ``IJIS 2022`` [Efficient virtual data search for annotation‐free vehicle reidentification](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22829), **Zhijing Wan**, Xin Xu, Zheng Wang, Toshihiko Yamasaki, Xiaolong Zhang, and Ruimin Hu, **International Journal of Intelligent Systems**, 2022 <span style="color:red">(Cover paper)</span>
