@@ -27,7 +27,7 @@ My research interests lie in data-centric AI, such as subset selection for compu
 If you are seeking any form of academic cooperation on subset selection, please feel free to email at <font color=Blue>wanzjwhu@whu.edu.cn</font>.
 
 # 🔥 Recent News
-- *2025.05*: &nbsp;🎉🎉 One paper was accepted by ICML 2025 as a Spotlight Paper! Coming soon.
+- *2025.06*: &nbsp;🎉🎉 One paper was accepted by ICML 2025 as a Oral Paper! Coming soon.
 - *2024.10*: &nbsp;🎉🎉 One co-authored paper was accepted by TOMM! 
 - *2024.07*: &nbsp;🎉🎉 One co-authored paper was accepted by ACM MM 2024!
 - *2023.12*: &nbsp;🎉🎉 One paper was accepted by AAAI 2024!
@@ -67,7 +67,7 @@ If you are seeking any form of academic cooperation on subset selection, please 
 </div>
 </div>
 
-- ``ICML 2025`` Foundation Model Insights and a Multi-model Approach for Superior Fine-grained One-shot Subset Selection, **Zhijing Wan**, Zhixiang Wang, Zheng Wang, Xin Xu, and Shin’ichi Satoh, **ICML**, 2025 <span style="color:red">(Spotlight, Top 2.6%)</span>
+- ``ICML 2025`` Foundation Model Insights and a Multi-model Approach for Superior Fine-grained One-shot Subset Selection, **Zhijing Wan**, Zhixiang Wang, Zheng Wang, Xin Xu, and Shin’ichi Satoh, **ICML**, 2025 <span style="color:red">(Oral, Top 1%)</span>
 - ``TOMM 2024`` [Diversity-Representativeness Replay and Knowledge Alignment for Lifelong Vehicle Re-identification](https://dl.acm.org/doi/abs/10.1145/3702998), Anqi Cao<sup>†</sup>, **Zhijing Wan**<sup>†</sup>, Xiao Wang, Wei Liu, Wei Wang, Zheng Wang, and Xin Xu, **ACM Transactions on Multimedia Computing, Communications and Applications**, 2024
 - ``ACM MM 2024`` [Devil is in Details: Locality-Aware 3D Abdominal CT Volume Generation for Organ Segmentation](https://dl.acm.org/doi/10.1145/3664647.3680588), Yuran Wang, **Zhijing Wan**, Yansheng Qiu, and Zheng Wang, **ACM MM**, 2024
 - ``T-ITS 2023`` [From Multi-Source Virtual to Real: Effective Virtual Data Search for Vehicle Re-Identification](https://ieeexplore.ieee.org/abstract/document/10315031), **Zhijing Wan**, Xin Xu, Zheng Wang, Zhixiang Wang, Sheng Zhao, and Ruimin Hu, **IEEE Transactions on Intelligent Transportation Systems**, 2023
