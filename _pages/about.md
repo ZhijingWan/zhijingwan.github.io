@@ -27,7 +27,7 @@ My research interests lie in data-centric AI, such as subset selection for compu
 If you are seeking any form of academic cooperation on subset selection, please feel free to email at <font color=Blue>wanzjwhu@whu.edu.cn</font>.
 
 # 🔥 Recent News
-- *2025.06*: &nbsp;🎉🎉 One paper was accepted by ICML 2025 as a Oral Paper! Coming soon.
+- *2025.06*: &nbsp;🎉🎉 One paper was accepted by ICML 2025 as an Oral Paper! Coming soon.
 - *2024.10*: &nbsp;🎉🎉 One co-authored paper was accepted by TOMM! 
 - *2024.07*: &nbsp;🎉🎉 One co-authored paper was accepted by ACM MM 2024!
 - *2023.12*: &nbsp;🎉🎉 One paper was accepted by AAAI 2024!
