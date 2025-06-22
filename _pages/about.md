@@ -36,6 +36,22 @@ If you are seeking any form of academic cooperation on subset selection, please 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ICML2025_Figure1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Foundation Model Insights and a Multi-model Approach for Superior Fine-grained One-shot Subset Selection](https://arxiv.org/pdf/2506.14473)
+
+**Zhijing Wan**, Zhixiang Wang, Zheng Wang, Xin Xu, and Shin’ichi Satoh
+
+**ICML**, 2025 <span style="color:red">(Oral, Top 1%)</span>
+
+[**Github**](https://github.com/ZhijingWan/RAM-APL) [**PDF**](https://arxiv.org/pdf/2506.14473)
+
+- This work conducts, for the first time, a comprehensive analysis of the strengths and limitations of foundation models versus traditional Information Extractors (IEs) in subset selection. We find that FMs consistently outperform traditional IEs on fine-grained datasets, but offer limited benefits on coarse-grained, noisy datasets.
+- A novel subset selection pipeline employing multiple foundation models with unknown selection performance as IEs is proposed for fine-grained image datasets. RAM-APL, an effective subset selection method, is designed based on the novel pipeline.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/CDS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -67,7 +83,6 @@ If you are seeking any form of academic cooperation on subset selection, please 
 </div>
 </div>
 
-- ``ICML 2025`` Foundation Model Insights and a Multi-model Approach for Superior Fine-grained One-shot Subset Selection, **Zhijing Wan**, Zhixiang Wang, Zheng Wang, Xin Xu, and Shin’ichi Satoh, **ICML**, 2025 <span style="color:red">(Oral, Top 1%)</span>
 - ``TOMM 2024`` [Diversity-Representativeness Replay and Knowledge Alignment for Lifelong Vehicle Re-identification](https://dl.acm.org/doi/abs/10.1145/3702998), Anqi Cao<sup>†</sup>, **Zhijing Wan**<sup>†</sup>, Xiao Wang, Wei Liu, Wei Wang, Zheng Wang, and Xin Xu, **ACM Transactions on Multimedia Computing, Communications and Applications**, 2024
 - ``ACM MM 2024`` [Devil is in Details: Locality-Aware 3D Abdominal CT Volume Generation for Organ Segmentation](https://dl.acm.org/doi/10.1145/3664647.3680588), Yuran Wang, **Zhijing Wan**, Yansheng Qiu, and Zheng Wang, **ACM MM**, 2024
 - ``T-ITS 2023`` [From Multi-Source Virtual to Real: Effective Virtual Data Search for Vehicle Re-Identification](https://ieeexplore.ieee.org/abstract/document/10315031), **Zhijing Wan**, Xin Xu, Zheng Wang, Zhixiang Wang, Sheng Zhao, and Ruimin Hu, **IEEE Transactions on Intelligent Transportation Systems**, 2023
