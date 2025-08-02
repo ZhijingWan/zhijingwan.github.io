@@ -45,7 +45,7 @@ If you are seeking any form of academic cooperation on subset selection, please 
 
 **ICML**, 2025 <span style="color:red">(Oral, Top 1%)</span>
 
-[**Paper**](https://arxiv.org/pdf/2506.14473) [**Code**](https://github.com/ZhijingWan/RAM-APL)
+[**Paper**](https://arxiv.org/pdf/2506.14473) [**Code**](https://github.com/ZhijingWan/RAM-APL) [**Poster**](https://github.com/ZhijingWan/zhijingwan.github.io/blob/main/poster/Poster_ICML2025.pdf)
 
 - This work conducts, for the first time, a comprehensive analysis of the strengths and limitations of foundation models versus traditional Information Extractors (IEs) in subset selection. We find that FMs consistently outperform traditional IEs on fine-grained datasets, but offer limited benefits on coarse-grained, noisy datasets.
 - A novel subset selection pipeline employing multiple foundation models with unknown selection performance as IEs is proposed for fine-grained image datasets. RAM-APL, an effective subset selection method, is designed based on the novel pipeline.
