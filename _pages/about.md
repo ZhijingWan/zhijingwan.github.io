@@ -45,7 +45,7 @@ If you are seeking any form of academic cooperation on subset selection, please 
 
 **ICML**, 2025 <span style="color:red">(Oral, Top 1%)</span>
 
-[**Github**](https://github.com/ZhijingWan/RAM-APL) [**PDF**](https://arxiv.org/pdf/2506.14473)
+[**Paper**](https://arxiv.org/pdf/2506.14473) [**Code**](https://github.com/ZhijingWan/RAM-APL)
 
 - This work conducts, for the first time, a comprehensive analysis of the strengths and limitations of foundation models versus traditional Information Extractors (IEs) in subset selection. We find that FMs consistently outperform traditional IEs on fine-grained datasets, but offer limited benefits on coarse-grained, noisy datasets.
 - A novel subset selection pipeline employing multiple foundation models with unknown selection performance as IEs is proposed for fine-grained image datasets. RAM-APL, an effective subset selection method, is designed based on the novel pipeline.
@@ -61,7 +61,7 @@ If you are seeking any form of academic cooperation on subset selection, please 
 
 **AAAI**, 2024
 
-[**Github**](https://github.com/ZhijingWan/contributing-dimension-structure) [**PDF**](https://arxiv.org/pdf/2401.16193.pdf) [**Poster**](https://github.com/ZhijingWan/zhijingwan.github.io/blob/main/poster/Poster_AAAI2024.pdf)
+[**Paper**](https://arxiv.org/pdf/2401.16193.pdf) [**Code**](https://github.com/ZhijingWan/contributing-dimension-structure) [**Poster**](https://github.com/ZhijingWan/zhijingwan.github.io/blob/main/poster/Poster_AAAI2024.pdf)
 
 - For the first time in coreset selection, we explicitly introduce information on the Contributing Dimension Structure (CDS) via the proposed CDS metric to enrich the diversity of CDS in the coreset. 
 </div>
