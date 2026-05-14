@@ -32,8 +32,6 @@ If you are seeking any form of academic cooperation on subset selection, please 
 - *2024.10*: &nbsp;🎉🎉 One co-authored paper was accepted by TOMM! 
 - *2024.07*: &nbsp;🎉🎉 One co-authored paper was accepted by ACM MM 2024!
 - *2023.12*: &nbsp;🎉🎉 One paper was accepted by AAAI 2024!
-- *2023.10*: &nbsp;🎉🎉 One paper was accepted by TITS!
-- *2023.09*: &nbsp;🎉🎉 One paper ([Dataset-Refinement-for-Computer-Vision survey](https://dl.acm.org/doi/abs/10.1145/3627157)) was accepted by ACM Computing Survey!
 
 # 📝 Publications 
 
