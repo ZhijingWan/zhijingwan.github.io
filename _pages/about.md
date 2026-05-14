@@ -27,6 +27,7 @@ My research interests lie in data-centric AI, such as subset selection for compu
 If you are seeking any form of academic cooperation on subset selection, please feel free to email at <font color=Blue>wanzjwhu@whu.edu.cn</font>.
 
 # 🔥 Recent News
+- *2026.05*: &nbsp; I am recognized as Gold Reviewer by ICML 2026.
 - *2025.06*: &nbsp;🎉🎉 One paper was accepted by ICML 2025 as an Oral Paper!
 - *2024.10*: &nbsp;🎉🎉 One co-authored paper was accepted by TOMM! 
 - *2024.07*: &nbsp;🎉🎉 One co-authored paper was accepted by ACM MM 2024!
@@ -96,6 +97,6 @@ If you are seeking any form of academic cooperation on subset selection, please 
 
 <a href="https://info.flagcounter.com/ktkR"><img src="https://s11.flagcounter.com/count2/ktkR/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
-<p style="text-align:right">Updated in June 2025</p>
+<p style="text-align:right">Updated in May 2026</p>
 <p style="text-align:right">Thanks <a href="https://github.com/RayeRen">Yi Ren</a> for this amazing homepage template.</p>
 
